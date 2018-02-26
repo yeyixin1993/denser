@@ -1,26 +1,33 @@
 company:
-  name: Team Awesome
-  logo: Cornell_NYC_Tech_logo.png
-product_hmw: How might we showcase Cornell Tech students work?
+  name: Denser
+  logo: logo.JPG
+how_might_we: How might we give novice retail investors the most relevant information efficiently to aid their individual stock investment decisions.
 tags:
-  - VR
-  - Health Tech
-  - Academia
+  - Consumer
+  - Finance
+  - Feed
 
 product_narrative: |
-  Cornell Tech students build some amazing things. But it is often hard to show it to outside people.
-  With BuildBoard, we let students provide regular updates about their work and create a Web version of it.
+  Denser helps novice retail investors know more by reading less
 team:
-  picture: E383E868-.jpg
+  picture: ppg.pgn
   roster:
-  - name: Rachel Sobel
-    email: rachel.sobel.cornell@gmail.com
-    picture: rachel.jpg
-    program: LLM
-  - name: Arnaud Sahuguet
-    email: arnaud.sahuguet@cornell.edu
-    picture: arnaud.png
-    program: MBA
+  - name: David Ma
+    email: zm57@cornell.edu
+    picture: zm57.jpg
+    program: ORIE
+  - name: Bob Zhu
+    email: xz573@cornell.edu
+    picture: xz573.jpg
+    program: ORIE
+  - name: Eli Ye
+    email: yy748@cornell.edu
+    picture: yy748.jpg
+    program: CS
+  - name: Carmen Fang
+    email: jf442@cornell.edu
+    picture: jf442.jpg
+    program: ORIE
 
 assets:
 - title: Sprint 1
